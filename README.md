@@ -101,7 +101,7 @@ Using:
 ## 📂 Project Structure
 
 ```
-├── Sofa_Discovery_Hybrid_Search_VertexAI.ipynb
+├── Hybrid Search for E-Comm Product Discovery with RAG-style LLM Augmentation.ipynb
 ├── README.md
 ├── architecture.png
 ```
